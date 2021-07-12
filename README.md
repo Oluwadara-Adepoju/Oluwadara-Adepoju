@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Oluwadara-Adepoju
 - 👀 I’m interested in Data science( Research and Machine learning) and Public Health
-- 🌱 I’m currently learning backend development, and i'm currently doing my masters degree.
+- 🌱 I’m currently learning full stack development, and i'm currently doing my masters degree.
 - 💞️ I’m looking to collaborate on alot of healthcare related projects(not restricted to this)
 - 📫 How to reach me 
 send me an email: daraadepoju007@gmail.com (yeah, i was a fan of james bond when i created this email).
